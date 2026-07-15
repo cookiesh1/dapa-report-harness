@@ -1,0 +1,10 @@
+{
+  "run_id": "reply-20260715-2320",
+  "revision": 1,
+  "verdict": "PASS",
+  "findings": [],
+  "stats": {
+    "claims_checked": 30,
+    "violations": 0
+  }
+}

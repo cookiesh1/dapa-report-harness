@@ -1,0 +1,45 @@
+{
+  "run_id": "daily-20260715-2250",
+  "revision": 1,
+  "verdict": "PASS",
+  "findings": [],
+  "resolved_from_previous": [
+    {
+      "id": "F1",
+      "type": "STRUCTURE",
+      "detail": "요지 가.의 '한 항목 한 내용' 위반(엔진 공개와 CPSP 수주 무산 병렬 묶음) — 재작성에서 가./나.로 분리되고 이하 항목 기호(다./라.)가 재조정되어 해소 확인"
+    }
+  ],
+  "checks": {
+    "STRUCTURE": {
+      "dugwalsik_first_section": "PASS — 첫 섹션 '1. 요지'에 핵심 결론 배치",
+      "numbering_scheme": "PASS — 1.→가.→1) 체계 일관 적용",
+      "one_item_one_content": "PASS — 요지 가./나. 분리 완료, 다.는 '제도·정책' 단일 주제로 묶여 허용",
+      "required_sections": "PASS — 요지·인용 출처 섹션 존재"
+    },
+    "STYLE": {
+      "gaejosik_ending": "PASS — 전 항목 ~함/~임/~됨 종결 일관",
+      "exaggeration": "PASS — 과장어 없음 ('매우 아쉽다'는 방사청 공식 입장 인용으로 판단)",
+      "hedge_stacking": "PASS — 헤지 겹침 없음",
+      "translationese": "PASS — 번역투 없음"
+    },
+    "TONE": {
+      "applicable": false,
+      "note": "일일 동향보고로 국회 답변자료 기준 비적용. 단정적 약속·타 기관 월권 표현 없음 확인"
+    },
+    "SENSITIVE": {
+      "term_list_hits": [],
+      "contextual_review": "PASS — 예산(약 500억 원)·엔진 제원(5,500lbf급/1,400마력급)·CPSP 범정부 TF 구성·청장 실명 등 모두 방위사업청 공개 보도자료(S1~S5) 기반 공개 정보로 민감정보 해당 없음"
+    }
+  },
+  "stats": {
+    "sections_checked": 5,
+    "violations": 0,
+    "by_type": {
+      "STRUCTURE": 0,
+      "STYLE": 0,
+      "TONE": 0,
+      "SENSITIVE": 0
+    }
+  }
+}

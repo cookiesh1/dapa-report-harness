@@ -1,0 +1,7 @@
+{
+  "_comment": "간이 스키마 — gate.py가 required/array_field/item_required만 검사한다",
+  "artifact": "04_citation_audit.json / 04_format_audit.json (공통)",
+  "required": ["run_id", "revision", "verdict", "findings", "stats"],
+  "array_field": "findings",
+  "item_required": ["type", "detail"]
+}

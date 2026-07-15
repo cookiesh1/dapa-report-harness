@@ -1,0 +1,18 @@
+{
+  "_comment": "출처로 허용하는 공식 도메인 화이트리스트. 하위 도메인 포함 매칭.",
+  "allow": [
+    "dapa.go.kr",
+    "mnd.go.kr",
+    "korea.kr",
+    "law.go.kr",
+    "assembly.go.kr",
+    "likms.assembly.go.kr",
+    "nanet.go.kr",
+    "nabo.go.kr",
+    "add.re.kr",
+    "krit.re.kr",
+    "dtaq.re.kr",
+    "moef.go.kr",
+    "open.go.kr"
+  ]
+}
