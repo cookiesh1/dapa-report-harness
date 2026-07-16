@@ -19,7 +19,7 @@
 - [x] 리뷰 라운드: codex CLI(설계·게이트) + 독립 에이전트(문서·예시, gemini 인증만료 대체) → 치명 2건(README 플레이스홀더·법령 URL 공백)+게이트 보강 5건 수용, 예시 문체 지적은 실측보존 원칙으로 기각
 - [x] 게이트 보강: gaps 검사·기형 토큰·stale final 삭제·타입 검증·id 패턴 + selftest.py 10/10, 실측 4개 폴더 재판정 전부 completed
 - [x] 비밀정보·개인 경로 스캔 통과
-- [ ] GitHub 레포 생성·푸시
+- [x] GitHub 레포 생성·푸시 완료: https://github.com/cookiesh1/dapa-report-harness (public 검증, 07-16)
 - [ ] 제출 (레포 주소) — 사용자가 포털에 제출
 
 ## 불변 원칙
